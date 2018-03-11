@@ -1,0 +1,39 @@
+Redux Best Practices: https://www.youtube.com/watch?v=aJxcVidE0I0
+React/Redux Data Loading Practices : https://www.youtube.com/watch?v=JicUNpwLzLY
+http request library : axios, thunks, fetch, saga
+https://www.youtube.com/watch?v=aJxcVidE0I0
+https://www.rallycoding.com/videos/
+Smart components: knows about redux, they disatch actions
+Dump component: uses values passed as props
+redux: https://www.youtube.com/watch?v=1w-oQ-i1XB8
+user signup and storing to DB: https://www.youtube.com/watch?v=t3am_ihCFPw
+//https://egghead.io/lessons/react-redux-store-methods-getstate-dispatch-and-subscribe
+//Architecing react apps: https://www.youtube.com/watch?v=lI3IcjFg9Wk
+https://www.youtube.com/watch?v=thW0yrj3sKU
+//selectors/reselect: https://www.youtube.com/watch?v=frT3to2ACCw
+// thunks: https://www.youtube.com/watch?v=xihoZZU0gao
+//recompose: https://www.youtube.com/watch?v=SQtrgiLy3Fo
+//api: https://stackoverflow.com/questions/39813984/how-to-fetch-data-through-api-in-redux
+//https://redux.js.org/advanced/async-actions
+//isFetching ? <h2>Loading...</h2> : <h2>Empty.</h2>
+//https://developers.google.com/web/fundamentals/primers/promises
+//https://github.com/reactjs/redux/issues/291
+//https://medium.com/@yoniweisbrod/interacting-with-apis-using-react-native-fetch-9733f28566bb
+//https://www.youtube.com/watch?v=XCQ0ZSr-a2o
+//https://www.youtube.com/watch?v=thW0yrj3sKU
+//https://www.rallycoding.com/videos/
+//https://www.youtube.com/watch?v=1QI-UE3-0PU
+//https://www.youtube.com/watch?v=WGjv-p9jYf0
+//https://www.youtube.com/watch?v=npvQX53YuCs
+//https://www.youtube.com/watch?v=IFMzqPDo6o4
+//https://www.youtube.com/watch?v=wLOOFh8qoWA
+//https://www.youtube.com/watch?v=cdUyEou0LHg
+//https://www.youtube.com/watch?v=X-AhceP6jpA
+//https://www.youtube.com/watch?v=gzOvU_DylZg
+//https://www.youtube.com/watch?v=MXM6F539lQE
+//https://egghead.io/lessons/javascript-redux-normalizing-api-responses-with-normalizr
+//https://www.youtube.com/watch?v=fAX7xyIlQjs
+//https://egghead.io/lessons/javascript-redux-fetching-data-on-route-change
+
+// pre loader : https://www.youtube.com/watch?v=LTunyI2Oyzw
+//https://redux.js.org/basics/example-todo-list
